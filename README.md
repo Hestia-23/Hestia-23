@@ -16,10 +16,12 @@ PSU: Seasonic Focus 750w
 Case: Lian Li Lancool III (Black)```
 
 
+
 > Storage
 ```System/Boot Drive: 500 GB Crucial P5 Plus M.2 NVMe (SSD)
 Games: 2 TB Crucial P5 Plus M.2 NVMe (SSD)
 Misc: 4TB Crucial MX500 2.5" SATA (SSD)```
+
 
 
 
