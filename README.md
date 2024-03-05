@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java, CSS, jQuery and HTML.
 - 💬 Ask me about what I'm passionate about.
 
-> PC Information
+> [!NOTE]
 
 ```CPU: AMD Ryzen 7 5800X
 ```CPU Cooler: Arctic Liquid Freezer II 360```
