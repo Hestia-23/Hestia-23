@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java, CSS, jQuery and HTML.
 - 💬 Ask me about what I'm passionate about.
 
-> [!NOTE]
+> [!NOTE Desktop PC Setup]
 > Desktop PC Setup
 
 CPU: AMD Ryzen 7 5800X
