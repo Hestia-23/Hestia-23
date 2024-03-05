@@ -7,6 +7,7 @@
 - 💬 Ask me about what I'm passionate about.
 
 > [!NOTE]
+> Desktop PC Setup
 
 ```CPU: AMD Ryzen 7 5800X
 ```CPU Cooler: Arctic Liquid Freezer II 360```
