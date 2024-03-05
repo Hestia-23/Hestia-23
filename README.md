@@ -7,6 +7,7 @@
 - 💬 Ask me about what I'm passionate about.
 
 > PC Information
+> 
 ```CPU: AMD Ryzen 7 5800X
 CPU Cooler: Arctic Liquid Freezer II 360
 GPU: Asus TUF RTX 3080 12GB OC
@@ -18,6 +19,7 @@ Case: Lian Li Lancool III (Black)```
 
 
 > Storage
+
 ```System/Boot Drive: 500 GB Crucial P5 Plus M.2 NVMe (SSD)
 Games: 2 TB Crucial P5 Plus M.2 NVMe (SSD)
 Misc: 4TB Crucial MX500 2.5" SATA (SSD)```
@@ -26,6 +28,7 @@ Misc: 4TB Crucial MX500 2.5" SATA (SSD)```
 
 
 > Peripherals
+
 ```Monitor: MSI Optix G273QF (Main)
 Keyboard: Leopold | Keychron Q Series
 Mouse: Razer Naga X
