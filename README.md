@@ -3,7 +3,7 @@
 
 ### About Me
 - 🔭 I’m currently working on creating Discord utility bots for [Hyperion BotLabs](https://github.com/Hyperion-Bot-Labs)
-- 🌱 I’m currently learning Java, CSS, jQuery and HTML.
+- 🌱 I’m currently learning Full Stack Development, Cybersecurity and Data Analytics.
 - 💬 Ask me about what I'm passionate about.
 
 > **Desktop PC Setup**
