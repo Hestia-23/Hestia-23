@@ -1,10 +1,10 @@
 # 🍷 I Am Hestia
 ## 🫶 Children Are The Future 🫶
 
-### About Me
-- 🔭 I’m currently working on creating Discord utility bots for [Hyperion BotLabs](https://github.com/Hyperion-Bot-Labs)
-- 🌱 I’m currently learning Full Stack Development, Cybersecurity and Data Analytics.
-- 💬 Ask me about what I'm passionate about.
+### Bio
+- 🚀 Volunteer @ [GameVox](https://gamevox.com/)
+- ⏸️ Paused until further notice: [Hyperion BotLabs](https://github.com/Hyperion-Bot-Labs)
+- 🌱 Learning full stack development, cybersecurity and data analytics.
 
 > **Desktop PC Setup**
 
