@@ -3,8 +3,11 @@
 
 ### Bio
 - 🚀 Volunteer @ [GameVox](https://gamevox.com/)
+- 🙋‍♀️ Portfolio: [hearth-ui](https://github.com/Hestia-23/hearth-ui)
 - ⏸️ Paused until further notice: [Hyperion BotLabs](https://github.com/Hyperion-Bot-Labs)
 - 🌱 Learning full stack development, cybersecurity and data analytics.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa)](https://github.com/sponsors/hestia-23)
 
 > **Desktop PC Setup**
 
