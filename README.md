@@ -2,7 +2,7 @@
 ## 🫶 Children Are The Future 🫶
 
 ### Bio
-- 🚀 Volunteer @ [GameVox](https://gamevox.com/)
+- 🚀 Volunteer @ [GameVox](https://github.com/GameVoxVoice)
 - 🙋‍♀️ Portfolio: [hearth-ui](https://github.com/Hestia-23/hearth-ui)
 - ⏸️ Paused until further notice: [Hyperion BotLabs](https://github.com/Hyperion-Bot-Labs)
 - 🌱 Learning full stack development, cybersecurity and data analytics.
