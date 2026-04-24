@@ -2,8 +2,8 @@
 ## 🫶 Children Are The Future 🫶
 
 ### Bio
+- 🙋‍♀️ [Portfolio](https://hestia-23.github.io/)
 - 🚀 Community Manager @ [GameVox](https://github.com/GameVoxVoice)
-- 🙋‍♀️ Portfolio: [hearth-ui](https://github.com/Hestia-23/hearth-ui)
 - 🌱 Learning full stack development, cybersecurity and data analytics.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa)](https://github.com/sponsors/hestia-23)
